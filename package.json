@@ -1,0 +1,25 @@
+{
+  "name": "react-cssmath-hooks",
+  "version": "0.0.1",
+  "description": "a set of utility hooks to useMax, useMin, usePixels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CircArgs/react-cssMath-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "css",
+    "math"
+  ],
+  "author": "Nick Ouellet (CircArgs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CircArgs/react-cssMath-hooks/issues"
+  },
+  "homepage": "https://github.com/CircArgs/react-cssMath-hooks#readme"
+}
